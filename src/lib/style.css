@@ -1,0 +1,16 @@
+.Menu, .Content {
+  margin-bottom: 15px;
+}
+
+.Menu, .Content, .Footer {
+  text-align: center;
+}
+
+.Ads, .container {
+  margin-bottom: 15px;
+}
+
+.container {
+  border-left: 1px dotted gray;
+  border-right: 1px dotted gray;
+}
