@@ -5,7 +5,7 @@
 Basically, I implement few code, just the necessary to start building great stuffs.
 
 Some steps to configurate are showed below:
-1. Execute [this](https://reactjs.org/docs/try-react.html) tutorial and create your own envirenment;
+1. Execute [this](https://reactjs.org/docs/try-react.html) tutorial and create your own environment;
 1. Use CLI __create-router-app__ to generate a new project;
 1. After that, enter in project folder and run this command:
 ```bash
@@ -13,7 +13,7 @@ Some steps to configurate are showed below:
 ```
 Now you had everything configurated, so lets code!
 
-1. Start you dev envirenment with:
+1. Start you dev environment with:
 ```bash
 # yarn start
 ```
